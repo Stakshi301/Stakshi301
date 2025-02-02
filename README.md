@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" width="400"/>
+  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" width="400" height="200"/>
 </p>
 
 ---
