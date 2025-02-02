@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="Matrix Code" width="400" height="300"/>
+  <img src="https://i.pinimg.com/originals/c7/c6/f7/c7c6f7e8b3506ea46261ab7b55fc9faf.gif" alt="Matrix Code" width="400" height="300"/>
 </p>
 
 ---
@@ -56,18 +56,22 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/stakshi301/">
+  <a href="https://www.linkedin.com/in/stakshi-semwal-832226270/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/stakshi301/">
+  <a href="https://www.instagram.com/semwal_stakshi/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:stakshi301@gmail.com">
+  <a href="mailto:semwaleishta6@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discord.com/users/stakshi301">
+  <a href="https://discord.com/users/Uukiyo">
     <img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://leetcode.com/u/eishi/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
+</a>
+
 </p>  
 
 ---
