@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Stakshi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+</div>
 
+###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stakshi301&label=Profile%20views&color=0e75b6&style=flat" alt="stakshi301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stakshi301" alt="stakshi301" /></a> </p>
