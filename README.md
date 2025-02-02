@@ -11,7 +11,7 @@
 - 🌱 Currently learning **MERN Stack Development**  
 - 💻 Passionate about **Full Stack Web Development**  
 - ⚡ Exploring **Next.js, TailwindCSS, and MongoDB**  
-- 📫 Reach me at **stakshi301@gmail.com**  
+- 📫 Reach me at **semwaleishta6@gmail.com**  
 
 ---
 
