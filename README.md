@@ -13,7 +13,7 @@
 - ⚡ Exploring **Next.js, TailwindCSS, and MongoDB**  
 - 📫 Reach me at **semwaleishta6@gmail.com**  
 
----
+--- 
 
 ### 🛠 Tech Stack & Tools  
 
