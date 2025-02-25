@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me   
 - 🌱 Currently learning **MERN Stack Development**  
 - 💻 Passionate about **Full Stack Web Development**  
 - ⚡ Exploring **Next.js, TailwindCSS, and MongoDB**  
