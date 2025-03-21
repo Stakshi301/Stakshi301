@@ -3,7 +3,7 @@
  
 <p align="center"> 
   <img src="https://i.pinimg.com/originals/c7/c6/f7/c7c6f7e8b3506ea46261ab7b55fc9faf.gif" alt="Matrix Code" width="400" height="300"/>
-</p>
+</p> 
 
 --- 
 
